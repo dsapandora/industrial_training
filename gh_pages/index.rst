@@ -23,9 +23,6 @@ C++
 .. toctree::
    :maxdepth: 1
 
-   MIT Introduction to C++ <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/assignments/>
-   Bruce Eckel Thinking in C++ <http://mindview.net/Books/TICPP/ThinkingInCPP2e.html>
-
 Linux Fundamentals
 ~~~~~~~~~~~~~~~~~~
 :download:`Slides <_downloads/slides/ROS-I Basic Developers Training - Session 0.pdf>`
